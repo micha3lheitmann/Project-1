@@ -1,4 +1,4 @@
-# micha3lheitmann
+# Covid19 Data and Visualizations
 Covid19 Project 1
 Project 1 with Norman, Jeab, Gini
 # Correlating population density with Corona Virus and then predicting which US States could be at risk for tipping the Health Care System into chaos based on beds per state.
